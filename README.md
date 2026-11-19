@@ -341,7 +341,7 @@ Result: demo data commits in **0 ms blocking**, dashboard renders immediately.
 
 ## 👤 Author
 
-**Arafat Hossain**
+**Araf**
 - Email: `araf47.edu@gmail.com`
 - GitHub: [@Araf47](https://github.com/Araf47)  <!-- update if different -->
 
